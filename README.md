@@ -18,7 +18,7 @@ This is a custom framework built using Vite, React, and several essential packag
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-custom-framework.git 
+   git clone https://github.com/eddaoudi-mohamed/my-custom-framerwork.git
 
 2. Install dependencies:
    ```bash
