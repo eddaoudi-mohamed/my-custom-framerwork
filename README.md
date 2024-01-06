@@ -1,30 +1,31 @@
-# React + TypeScript + Vite
+# Creating Custom Framework React 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Custom Framework with Vite, React, Tailwind CSS, React Router DOM, Lucide React, and Axios
 
-Currently, two official plugins are available:
+This is a custom framework built using Vite, React, and several essential packages to streamline the development process. It includes support for styling with Tailwind CSS, client-side routing with React Router DOM, SVG icons with Lucide React, and HTTP requests with Axios.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Vite**: A fast and efficient frontend build tool that provides a faster development experience.
+- **React**: A popular JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for building modern designs without writing long, complex stylesheets.
+- **React Router DOM**: A declarative routing library for React applications.
+- **Lucide React**: A set of delightful SVG icons for your React projects.
+- **Axios**: A promise-based HTTP client for the browser and Node.js, making it easy to send asynchronous HTTP requests.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## Getting Started
 
-- Configure the top-level `parserOptions` property like this:
+1. Clone the repository:
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+   ```bash
+   git clone https://github.com/your-username/your-custom-framework.git 
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+2. Install dependencies:
+   ```bash
+  cd your-custom-framework
+  npm install 
+
+3. Start the development server:
+   ```bash
+
+   npm run dev
