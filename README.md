@@ -22,8 +22,8 @@ This is a custom framework built using Vite, React, and several essential packag
 
 2. Install dependencies:
    ```bash
-  cd your-custom-framework
-  npm install 
+   cd your-custom-framework
+   npm install 
 
 3. Start the development server:
    ```bash
