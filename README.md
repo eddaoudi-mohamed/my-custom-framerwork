@@ -11,7 +11,8 @@ This is a custom framework built using Vite, React, and several essential packag
 - **Tailwind CSS**: A utility-first CSS framework for building modern designs without writing long, complex stylesheets.
 - **React Router DOM**: A declarative routing library for React applications.
 - **Lucide React**: A set of delightful SVG icons for your React projects.
-- **Axios**: A promise-based HTTP client for the browser and Node.js, making it easy to send asynchronous HTTP requests.
+- **Axios**: A promise-based HTTP client for the browser and Node.js, making it easy to send asynchronous HTTP requests. 
+- **Redux** : state management library for JavaScript applications, commonly used with React
 
 ## Getting Started
 
